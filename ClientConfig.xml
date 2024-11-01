@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Cash Cookout WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CashCookout" enableFreeSpin="N" clientversion="1.0" gameId="300-2094-0" />
+	<GameClient name="Cash Cookout WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CashCookout" enableFreeSpin="N" clientversion="1.0" gameId="300-2094-0" />
+	<GameClient name="Cash Cookout WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="CashCookout" enableFreeSpin="N" clientversion="1.0" gameId="300-2094-0" />
+</ClientConfig>
